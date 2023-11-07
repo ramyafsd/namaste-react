@@ -1,0 +1,79 @@
+what is NPM?
+ Ans: NPM is a package manager and used for managing the packages/dependencies in our react application.
+      It may be considered as a repository for all the packages. By using "npm init" we can intitialze it. By using "npm install" we can add dependencies.
+
+What is parcel/webpack? why do we need it?
+  Ans: Parcel and webpack both are known as bundlers they are available as packages we can simply install them in our app by using npm intall command as below 
+       npm install -D parcel 
+       here -D menas it is installed as a devDependency which is used by developers only but not available in the production.
+       These bundlers serves so many advantages like below:
+            HMR - Hot Module Replacement
+            File watching algorithm - written in c++
+            Faster build because of caching
+            Image optimization
+            Minification
+            compressing
+            Bundling
+            Consistent Hashing   and so on.....
+
+what is .parcel-cache?
+  Ans: It stores information about your project when parcel builds it, so that when it rebuilds, it doesn't have to re-parse and re-analyze everything from scratch.
+       It's a key reason why parcel can be so fast in development mode. I think committing it to git would be a bad idea - it would add a large number of (unnecessary) changes to your commit history.
+
+what is npx?
+Ans: npx and npm are the commands of NPM where npm is used for package Installation where as npx is used for execution of a package
+   ex: npx create-react-app sample-app
+
+ what is difference between dependencies and devDependencies?
+ Ans: These two dependencies are added in the package.json File
+       dependencies are used for at the production level environment.
+       devdependencies are used at the development level encironment.
+       ex: npm install parcel ,
+       ex: npm install -D parcel [devDependency]
+
+What is tree-shaking?
+Ans: The Tree-shaking is an part of parcel, which is used to remove the unused code and is used to reduce the size of the bundle and improve performance. Parcel also statically analyzes the imports and exports of each module, and removes everything that isn't used. This is called "tree shaking" or "dead code elimination".
+
+What is Hot Module Replacement?
+Ans: Hot Module Replacement is the process of updation of a module without reloading the entire page.
+
+ List down favourite 5 superpowers of parcel and describe any 3 of them in own words?
+ Ans:  
+        HMR
+        Tree-shaking
+        Minification
+        Diagnostics
+        Differential Bundling
+
+HMR: Hot Module Replacement is the process of updation of a module without reloading the entire page.
+Tree-shaking: The Tree-shaking is an part of parcel, which is used to remove the unused code and is used to reduce the size of the bundle and improve performance. Parcel also statically analyzes the imports and exports of each module, and removes everything that isn't used. This is called "tree shaking" or "dead code elimination".
+Minification: parcel provides minification, to mimize the code/bundles the code and it gets optimized automatically. To minize the code, run npm parcel build index.html
+
+ what is .gitignore? what should we add and not add into it?
+    Ans: .gitignore is a file which we create in our application in which we add the files/folders which is need not to be commited to the production environment.
+     eg: For example we will add the node_modules file to the git-ignore since it will be regenerated where ever we want.
+
+
+What is difference between package.json and package-lock.json?
+    Ans: package.json contains all the information about the project like auhtor, script, dependencies , It records the metsdata about the project and it is mandatory for every project.
+         package.lok.json: It allows future devs to install the same dependencies in the project and it contains the  and locked version of the project. 
+
+why should i not modify package-lock.json?
+ Ans: The pckage-lock.json is handled directly by package.json and contains the information about the dependencies and their versions used in the project. Deleting it would cause dependencies issues in the production environment and is being handled automatically by NPM.
+
+what is node-modules? is it a good idea to push on git?
+ Ans: No, its not a good idea to push node_modules into git , since they are very heavy and takes more memory because it contains all the code fetched from npm all the data of the dependencies ,
+      node_modules can be regenerated whenever the project build takes place.
+
+what is .dist folder?
+    Ans: The dist folder contains three main files namesly, html,css and javasscript files. It contains the minimized version of the source code and contains the code from production web application.
+
+what is browserlist?
+  Ans: It is an tool, which tells about the browsers, which can be supported on web app like older browsers
+
+      "BrowserList" : [
+         "last 2 chrome version",
+         "last 2 firefox versions"
+        ]
+
+      
