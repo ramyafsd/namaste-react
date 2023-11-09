@@ -1,0 +1,57 @@
+Assignment 03 - Laying the Foundation
+
+Topics
+
+1. JSX
+    Ans: JSX is nothing but a javascript XML , It allows us to write HTML/XML like syntax inside the js file, not only this but also we can write javascript code as well with in the  curly braces "{}".
+2. React.createElement vs JSX
+    Ans: Let us see a simple exapmle to demonstarate the difference 
+            const heading = React.createElement("h1", {id: "heading"}, "Hello world") /// using React.createElement
+            const heading = (<h1 id="heading>Hello world</h1>) /// using JSX
+        If we see in the above example both outputs the same result but the JSX makes the developers job even more easy.
+3. Benefits of JSX 
+    Ans: JSX allows us to write the HTML like syntax as well as the javascript code inside it hence making the developers job easy.
+         JSX also takes care of prventing the cross-side scripting whenever there is a malicious data encountered
+5. Babel and Parcel role in JSX 
+    Ans:  Generally a JSX will be converted to a React.createElement and the parcel consisting of babel[javascript compiler] is the one which does that conversion. after the converion of a javascript object 
+          it will be rendered as a HTMl element
+6. Components
+     In React everything is a component. A component is nothing but a javascript function which returns a JSX.
+     React consists of Two kinds of components. 
+     1. class based components.
+     2. Functional components. 
+7. Functional Components 
+    Functional components are the normal javascript functions which returns a JSX code or a react element.
+    ex: const FunctionalComponent = () => {
+        return (
+            <h1> Hello world </h1>
+        )
+    }
+   => Composing Components: Composing of two components inside one another or writing a component in an other component will be called as composing of components.
+
+8. Role of type attribute in script? What option can is choose there?
+    => The type attribute normally gives language of script or format of data
+    => It is used to add the type of scripts like React (module)
+    => <script type = "module" src="app.js"></script>
+    => <script type = "text/javascript" src="app.js"></script>
+
+9. {TitleComponent} vs {<TitleComponent />} vs {<TitleComponent></TitleComponent>} in JSX?
+    => {TitleComponent} - This is used to add an javascript variable inside an JSX 
+            const TitleComponent = 45000
+            const Total = () => (
+                {TitleComponent}
+            )
+    
+    => {<TitleComponent />} - This is used to add as an React Components inside the JSX, that is component inside an component which is known as composable components
+            const TitleComponent = () => {
+                return <h1>React Components</h1>
+            }
+            const Display = () => {
+                return(
+                    <div>
+                       <TitleComponent />
+                    </div>
+                )
+            }
+    
+    => {<TitleComponent></TitleComponent>} - This is used to add as an React Components in JSX, if we have any children elements to render in it
