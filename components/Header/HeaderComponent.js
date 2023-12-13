@@ -1,25 +1,33 @@
 import React from "react";
-import ReactDom from "react-dom";
-import reelLogo from "../../assets/reel.png";
-import userLogo from "../../assets/user.png";
 import "./headerStyles.css";
-
-//Create a Header Component from scratch using Functional components in jsx
-// 1. add logo on left
-// 2. add a search bar in middle
-// 3. add user icon on right
-// 4. add css to make it nice
+import logo from "../../public/assets/F-letter.jpg";
 
 const HeaderComponent = () => {
   return (
-    <div className="container">
-      <img src={reelLogo} className="img" alt="logo" />
-      <input
-        type="search"
-        className="search-input"
-        placeholder="search here.."
-      />
-      <img src={userLogo} alt="icon" className="img" />
+    <div className="header-container">
+      <div className="logo-container">
+        <img src={logo} />
+        <div>FOODIEE</div>
+      </div>
+      <div className="menu-container">
+        <ul>
+          <li>
+            <a href="#">Home</a>
+          </li>
+          <li>
+            <a href="#">Offers</a>
+          </li>
+          <li>
+            <a href="#">Help</a>
+          </li>
+          <li>
+            <a href="#">Sign In</a>
+          </li>
+          <li>
+            <a href="#">Cart</a>
+          </li>
+        </ul>
+      </div>
     </div>
   );
 };

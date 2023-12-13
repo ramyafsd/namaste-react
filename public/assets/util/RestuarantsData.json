@@ -1,0 +1,1978 @@
+{
+  
+    "restaurants": [
+                      {
+                        "info": {
+                          "id": "281956",
+                          "name": "Barkas Arabian Kitchens",
+                          "cloudinaryImageId": "nnjpsfbg9hphur7pdti2",
+                          "locality": "Prakash Nagar",
+                          "areaName": "Danavai Peta",
+                          "costForTwo": "₹450 for two",
+                          "cuisines": [
+                            "Arabian",
+                            "North Indian",
+                            "Grill"
+                          ],
+                          "avgRating": 3.9,
+                          "feeDetails": {
+                            "restaurantId": "281956",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 1000
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 1000
+                          },
+                          "parentId": "327428",
+                          "avgRatingString": "3.9",
+                          "totalRatingsString": "1K+",
+                          "sla": {
+                            "deliveryTime": 18,
+                            "lastMileTravel": 2.3,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "18 mins",
+                            "lastMileTravelString": "2.3 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 15:50:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "₹101 OFF",
+                            "subHeader": "ABOVE ₹249",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/barkas-arabian-kitchens-prakash-nagar-danavai-peta-rajahmundry-281956",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "458620",
+                          "name": "La panchavati",
+                          "cloudinaryImageId": "zjaipe97hyo0n4xy12vv",
+                          "locality": "Syamala Nagar",
+                          "areaName": "JN Road",
+                          "costForTwo": "₹200 for two",
+                          "cuisines": [
+                            "South Indian",
+                            "Chinese",
+                            "North Indian",
+                            "Andhra"
+                          ],
+                          "avgRating": 4.2,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "458620",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 1000
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 1000
+                          },
+                          "parentId": "275097",
+                          "avgRatingString": "4.2",
+                          "totalRatingsString": "1K+",
+                          "sla": {
+                            "deliveryTime": 22,
+                            "lastMileTravel": 2.4,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "22 mins",
+                            "lastMileTravelString": "2.4 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 22:30:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "description": "pureveg",
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "₹150 OFF",
+                            "subHeader": "ABOVE ₹349",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/la-panchavati-syamala-nagar-jn-road-rajahmundry-458620",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "181326",
+                          "name": "Udupi Akshaya Veg Restaurant",
+                          "cloudinaryImageId": "bq9byeaiahpujg6p2zje",
+                          "locality": "Achanta Vari Street",
+                          "areaName": "T Nagar",
+                          "costForTwo": "₹250 for two",
+                          "cuisines": [
+                            "South Indian",
+                            "North Indian",
+                            "Chinese",
+                            "Tandoor"
+                          ],
+                          "avgRating": 4.4,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "181326",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 1000
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 1000
+                          },
+                          "parentId": "12581",
+                          "avgRatingString": "4.4",
+                          "totalRatingsString": "10K+",
+                          "sla": {
+                            "deliveryTime": 23,
+                            "lastMileTravel": 4.5,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "23 mins",
+                            "lastMileTravelString": "4.5 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 22:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "description": "pureveg",
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "₹150 OFF",
+                            "subHeader": "ABOVE ₹349",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/udupi-akshaya-veg-restaurant-achanta-vari-street-t-nagar-rajahmundry-181326",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "119864",
+                          "name": "Alif Biryani point",
+                          "cloudinaryImageId": "xoelwhzoapnnbm5mglao",
+                          "locality": "Jampeta",
+                          "areaName": "Azad Chowk",
+                          "costForTwo": "₹300 for two",
+                          "cuisines": [
+                            "Biryani",
+                            "Chinese",
+                            "Indian",
+                            "North Indian"
+                          ],
+                          "avgRating": 3.9,
+                          "feeDetails": {
+                            "restaurantId": "119864",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 800
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 800
+                          },
+                          "parentId": "12596",
+                          "avgRatingString": "3.9",
+                          "totalRatingsString": "10K+",
+                          "sla": {
+                            "deliveryTime": 24,
+                            "lastMileTravel": 3.6,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "24 mins",
+                            "lastMileTravelString": "3.6 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 23:59:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "₹150 OFF",
+                            "subHeader": "ABOVE ₹349",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/alif-biryani-point-jampeta-azad-chowk-rajahmundry-119864",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "405942",
+                          "name": "Madhu's Authentic Hyderabadi Cuisine",
+                          "cloudinaryImageId": "db3m2hujsu6oimtfhily",
+                          "locality": "VT College Road",
+                          "areaName": "Kotipalli",
+                          "costForTwo": "₹350 for two",
+                          "cuisines": [
+                            "Biryani",
+                            "Chinese",
+                            "North Indian"
+                          ],
+                          "avgRating": 3.8,
+                          "feeDetails": {
+                            "restaurantId": "405942",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 800
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 800
+                          },
+                          "parentId": "249844",
+                          "avgRatingString": "3.8",
+                          "totalRatingsString": "5K+",
+                          "sla": {
+                            "deliveryTime": 25,
+                            "lastMileTravel": 3.8,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "25 mins",
+                            "lastMileTravelString": "3.8 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 23:30:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "₹125 OFF",
+                            "subHeader": "ABOVE ₹249",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/madhus-authentic-hyderabadi-cuisine-vt-college-road-kotipalli-rajahmundry-405942",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "509893",
+                          "name": "Eat N Play",
+                          "cloudinaryImageId": "kfxcp10fhzkt9njisryd",
+                          "locality": "Kambalapeta",
+                          "areaName": "Y Junction",
+                          "costForTwo": "₹400 for two",
+                          "cuisines": [
+                            "Biryani",
+                            "Chinese",
+                            "North Indian",
+                            "Indian"
+                          ],
+                          "avgRating": 3.9,
+                          "feeDetails": {
+                            "restaurantId": "509893",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 700
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 700
+                          },
+                          "parentId": "19511",
+                          "avgRatingString": "3.9",
+                          "totalRatingsString": "10K+",
+                          "sla": {
+                            "deliveryTime": 24,
+                            "lastMileTravel": 3.8,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "24 mins",
+                            "lastMileTravelString": "3.8 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 23:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "₹125 OFF",
+                            "subHeader": "ABOVE ₹249",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/eat-n-play-kambalapeta-y-junction-rajahmundry-509893",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "131309",
+                          "name": "Pizza day",
+                          "cloudinaryImageId": "x2buowpyz6smpogr0rav",
+                          "locality": "Danavaipeta",
+                          "areaName": "TTD Road",
+                          "costForTwo": "₹300 for two",
+                          "cuisines": [
+                            "Pizzas",
+                            "Burgers",
+                            "Beverages"
+                          ],
+                          "avgRating": 4.1,
+                          "feeDetails": {
+                            "restaurantId": "131309",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 800
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 800
+                          },
+                          "parentId": "8060",
+                          "avgRatingString": "4.1",
+                          "totalRatingsString": "10K+",
+                          "sla": {
+                            "deliveryTime": 23,
+                            "lastMileTravel": 3,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "23 mins",
+                            "lastMileTravelString": "3.0 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-15 00:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "₹125 OFF",
+                            "subHeader": "ABOVE ₹199",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/pizza-day-danavaipeta-ttd-road-rajahmundry-131309",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "93946",
+                          "name": "7th Heaven",
+                          "cloudinaryImageId": "oyo7bgg6xtcfif30vwku",
+                          "locality": "Jawaharlal Nehru Road",
+                          "areaName": "JN Road",
+                          "costForTwo": "₹400 for two",
+                          "cuisines": [
+                            "Bakery"
+                          ],
+                          "avgRating": 4,
+                          "feeDetails": {
+                            "restaurantId": "93946",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 800
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 800
+                          },
+                          "parentId": "19",
+                          "avgRatingString": "4.0",
+                          "totalRatingsString": "5K+",
+                          "sla": {
+                            "deliveryTime": 20,
+                            "lastMileTravel": 1.5,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "20 mins",
+                            "lastMileTravelString": "1.5 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 23:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "₹150 OFF",
+                            "subHeader": "ABOVE ₹349",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/7th-heaven-jawaharlal-nehru-road-jn-road-rajahmundry-93946",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "93820",
+                          "name": "Makers of Milkshakes",
+                          "cloudinaryImageId": "dzcy3cmfrfubfxxr926k",
+                          "locality": "Old Somalamma Temple Road",
+                          "areaName": "Rajahmundry",
+                          "costForTwo": "₹150 for two",
+                          "cuisines": [
+                            "Beverages",
+                            "Desserts",
+                            "Ice Cream"
+                          ],
+                          "avgRating": 4.2,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "93820",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 1000
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 1000
+                          },
+                          "parentId": "5632",
+                          "avgRatingString": "4.2",
+                          "totalRatingsString": "1K+",
+                          "sla": {
+                            "deliveryTime": 20,
+                            "lastMileTravel": 1.7,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "20 mins",
+                            "lastMileTravelString": "1.7 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 22:45:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "40% OFF",
+                            "subHeader": "UPTO ₹80"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/makers-of-milkshakes-old-somalamma-temple-road-rajahmundry-rajahmundry-93820",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "393182",
+                          "name": "Grameen Kulfi",
+                          "cloudinaryImageId": "o6m7tme68mncejm0ncmj",
+                          "locality": "Matam Veedhi",
+                          "areaName": "Rajahmundry",
+                          "costForTwo": "₹120 for two",
+                          "cuisines": [
+                            "Ice Cream",
+                            "Desserts"
+                          ],
+                          "avgRating": 4.7,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "393182",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 700
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 700
+                          },
+                          "parentId": "12175",
+                          "avgRatingString": "4.7",
+                          "totalRatingsString": "500+",
+                          "sla": {
+                            "deliveryTime": 17,
+                            "lastMileTravel": 4.1,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "17 mins",
+                            "lastMileTravelString": "4.1 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 23:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "60% OFF",
+                            "subHeader": "UPTO ₹120"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/grameen-kulfi-matam-veedhi-rajahmundry-rajahmundry-393182",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "103512",
+                          "name": "Temptations",
+                          "cloudinaryImageId": "gmybuejm43ejpwnv5ztn",
+                          "locality": "Mangalavaripeta",
+                          "areaName": "Pushakr Ghat",
+                          "costForTwo": "₹250 for two",
+                          "cuisines": [
+                            "Ice Cream",
+                            "Chinese",
+                            "Jain",
+                            "Beverages"
+                          ],
+                          "avgRating": 3.7,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "103512",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 1000
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 1000
+                          },
+                          "parentId": "939",
+                          "avgRatingString": "3.7",
+                          "totalRatingsString": "5K+",
+                          "sla": {
+                            "deliveryTime": 26,
+                            "lastMileTravel": 4.7,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "26 mins",
+                            "lastMileTravelString": "4.7 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 23:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "₹150 OFF",
+                            "subHeader": "ABOVE ₹349",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/temptations-mangalavaripeta-pushakr-ghat-rajahmundry-103512",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "110383",
+                          "name": "RK Restaurant",
+                          "cloudinaryImageId": "phyg6bujrc7v4smmunzs",
+                          "locality": "Danavai Peta",
+                          "areaName": "Danavai Peta",
+                          "costForTwo": "₹250 for two",
+                          "cuisines": [
+                            "Biryani",
+                            "Chinese",
+                            "North Indian"
+                          ],
+                          "avgRating": 3.8,
+                          "feeDetails": {
+                            "restaurantId": "110383",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 1000
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 1000
+                          },
+                          "parentId": "391024",
+                          "avgRatingString": "3.8",
+                          "totalRatingsString": "10K+",
+                          "sla": {
+                            "deliveryTime": 24,
+                            "lastMileTravel": 3.6,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "24 mins",
+                            "lastMileTravelString": "3.6 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 22:45:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "₹150 OFF",
+                            "subHeader": "ABOVE ₹349",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/rk-restaurant-danavai-peta-rajahmundry-110383",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "502982",
+                          "name": "Domino's Pizza",
+                          "cloudinaryImageId": "tc4wzsww08j2jczwiwx4",
+                          "locality": "Apparao Road",
+                          "areaName": "Rajahmundry",
+                          "costForTwo": "₹400 for two",
+                          "cuisines": [
+                            "Pizzas",
+                            "Italian",
+                            "Pastas",
+                            "Desserts"
+                          ],
+                          "avgRating": 3.9,
+                          "feeDetails": {
+                            "restaurantId": "502982",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 1000
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 1000
+                          },
+                          "parentId": "2456",
+                          "avgRatingString": "3.9",
+                          "totalRatingsString": "100+",
+                          "sla": {
+                            "deliveryTime": 25,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "25 mins",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 23:59:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "₹150 OFF",
+                            "subHeader": "ABOVE ₹349",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/dominos-pizza-apparao-road-rajahmundry-rajahmundry-502982",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "363711",
+                          "name": "KFC",
+                          "cloudinaryImageId": "56c9ab92bd79745fd152a30fa2525426",
+                          "locality": "Thadithota",
+                          "areaName": "Rajahmundry",
+                          "costForTwo": "₹400 for two",
+                          "cuisines": [
+                            "Burgers",
+                            "Biryani",
+                            "American",
+                            "Snacks",
+                            "Fast Food"
+                          ],
+                          "avgRating": 3.9,
+                          "feeDetails": {
+                            "restaurantId": "363711",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 700
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 700
+                          },
+                          "parentId": "547",
+                          "avgRatingString": "3.9",
+                          "totalRatingsString": "5K+",
+                          "sla": {
+                            "deliveryTime": 18,
+                            "lastMileTravel": 2,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "18 mins",
+                            "lastMileTravelString": "2.0 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 23:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "20% OFF",
+                            "subHeader": "UPTO ₹50"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/kfc-thadithota-rajahmundry-rajahmundry-363711",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "393181",
+                          "name": "NIC Ice Creams",
+                          "cloudinaryImageId": "c8b98c4064dc2fd6bdf350212e5f0bd5",
+                          "locality": "Matam Veedhi",
+                          "areaName": "Rajahmundry",
+                          "costForTwo": "₹120 for two",
+                          "cuisines": [
+                            "Ice Cream",
+                            "Desserts"
+                          ],
+                          "avgRating": 4.4,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "393181",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 800
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 800
+                          },
+                          "parentId": "6249",
+                          "avgRatingString": "4.4",
+                          "totalRatingsString": "1K+",
+                          "sla": {
+                            "deliveryTime": 25,
+                            "lastMileTravel": 4.1,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "25 mins",
+                            "lastMileTravelString": "4.1 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 23:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "ITEMS",
+                            "subHeader": "AT ₹169"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/nic-ice-creams-matam-veedhi-rajahmundry-rajahmundry-393181",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "94206",
+                          "name": "Baskin Robbins - Ice Cream Desserts",
+                          "cloudinaryImageId": "85ccae4e3576f9330af102c46ca85395",
+                          "locality": "Tilak Road",
+                          "areaName": "Rajahmundry",
+                          "costForTwo": "₹150 for two",
+                          "cuisines": [
+                            "Desserts"
+                          ],
+                          "avgRating": 4.2,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "94206",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 1000
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 1000
+                          },
+                          "parentId": "5588",
+                          "avgRatingString": "4.2",
+                          "totalRatingsString": "1K+",
+                          "sla": {
+                            "deliveryTime": 16,
+                            "lastMileTravel": 1.9,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "16 mins",
+                            "lastMileTravelString": "1.9 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 21:30:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "description": "pureveg",
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "₹150 OFF",
+                            "subHeader": "ABOVE ₹349",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/baskin-robbins-ice-cream-desserts-tilak-road-rajahmundry-rajahmundry-94206",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "320815",
+                          "name": "Cafe Coffee Day",
+                          "cloudinaryImageId": "b70c7d23d197251b7b315b7e4d8173ae",
+                          "locality": "Srinivas Nagar",
+                          "areaName": "Rajahmundry",
+                          "costForTwo": "₹400 for two",
+                          "cuisines": [
+                            "Beverages",
+                            "Cafe",
+                            "Snacks",
+                            "Desserts",
+                            "Burgers",
+                            "Ice Cream",
+                            "Bakery",
+                            "Fast Food"
+                          ],
+                          "avgRating": 3.6,
+                          "feeDetails": {
+                            "restaurantId": "320815",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 800
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 800
+                          },
+                          "parentId": "1",
+                          "avgRatingString": "3.6",
+                          "totalRatingsString": "500+",
+                          "sla": {
+                            "deliveryTime": 20,
+                            "lastMileTravel": 1.5,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "20 mins",
+                            "lastMileTravelString": "1.5 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 23:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "50% OFF",
+                            "subHeader": "UPTO ₹100"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/cafe-coffee-day-srinivas-nagar-rajahmundry-rajahmundry-320815",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "93945",
+                          "name": "Lassi Shop",
+                          "cloudinaryImageId": "sgp7aghwhzrwrxqzsvpu",
+                          "locality": "Jawaharlal Nehru Road",
+                          "areaName": "JN Road",
+                          "costForTwo": "₹200 for two",
+                          "cuisines": [
+                            "Beverages",
+                            "Desserts"
+                          ],
+                          "avgRating": 3.7,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "93945",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 1000
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 1000
+                          },
+                          "parentId": "587",
+                          "avgRatingString": "3.7",
+                          "totalRatingsString": "10K+",
+                          "sla": {
+                            "deliveryTime": 20,
+                            "lastMileTravel": 1.5,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "20 mins",
+                            "lastMileTravelString": "1.5 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-14 22:30:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "description": "pureveg",
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "20% OFF",
+                            "subHeader": "UPTO ₹50"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/lassi-shop-jawaharlal-nehru-road-jn-road-rajahmundry-93945",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "342290",
+                          "name": "Pizza Hut",
+                          "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+                          "locality": "Priyanka Gardens",
+                          "areaName": "Rajahmundry",
+                          "costForTwo": "₹350 for two",
+                          "cuisines": [
+                            "Pizzas"
+                          ],
+                          "avgRating": 3.6,
+                          "feeDetails": {
+                            "restaurantId": "342290",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 800
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 800
+                          },
+                          "parentId": "721",
+                          "avgRatingString": "3.6",
+                          "totalRatingsString": "1K+",
+                          "sla": {
+                            "deliveryTime": 22,
+                            "lastMileTravel": 2.5,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "22 mins",
+                            "lastMileTravelString": "2.5 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-15 00:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "50% OFF",
+                            "subHeader": "UPTO ₹100"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/pizza-hut-priyanka-gardens-rajahmundry-rajahmundry-342290",
+                          "type": "WEBLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "93828",
+                          "name": "Subway",
+                          "cloudinaryImageId": "1ace5fa65eff3e1223feb696c956b38b",
+                          "locality": "Cream Stone",
+                          "areaName": "Rajamundhry, Andhra Pradesh",
+                          "costForTwo": "₹350 for two",
+                          "cuisines": [
+                            "Healthy Food",
+                            "Salads",
+                            "Snacks",
+                            "Desserts",
+                            "Beverages"
+                          ],
+                          "avgRating": 3.8,
+                          "feeDetails": {
+                            "restaurantId": "93828",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 1000
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 1000
+                          },
+                          "parentId": "2",
+                          "avgRatingString": "3.8",
+                          "totalRatingsString": "1K+",
+                          "sla": {
+                            "deliveryTime": 15,
+                            "lastMileTravel": 1.5,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "15 mins",
+                            "lastMileTravelString": "1.5 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-11-15 00:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                
+                              },
+                              "textBased": {
+                                
+                              },
+                              "textExtendedBadges": {
+                                
+                              }
+                            }
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "40% OFF",
+                            "subHeader": "UPTO ₹80"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {
+                                
+                              },
+                              "video": {
+                                
+                              }
+                            }
+                          },
+                          "reviewsSummary": {
+                            
+                          },
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {
+                            
+                          }
+                        },
+                        "analytics": {
+                          
+                        },
+                        "cta": {
+                          "link": "https://www.swiggy.com/restaurants/subway-cream-stone-rajamundhry-andhra-pradesh-rajahmundry-93828",
+                          "type": "WEBLINK"
+                        }
+                      }
+                    ]
+    
+  }
