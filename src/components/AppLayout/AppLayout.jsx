@@ -1,6 +1,6 @@
 import React from "react";
 import HeaderComponent from "../Header";
-import CardComponent from "../CardComponent";
+import CardComponent from "../../../src/components/CardComponent";
 
 const AppLayout = (props) => {
   return (
