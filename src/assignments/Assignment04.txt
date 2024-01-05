@@ -25,6 +25,6 @@ Is JSX mandatory for React?
 ● What is props in React? Ways to
     Ans: props are nothing but the properties they are used for passing the data from one component to another. 
 ● What is a Config Driven UI ?
-    Ans: Config driven UI means designing the UI to support different configurations, for example swiggy where depends on location the restuarants will change but the UI is same.
-
+    Ans: Config driven UI means designing the UI to support different configurations, or simply we can say UI is driven by the backend API's for example swiggy where depends on location the restuarants will change but the UI is same.
+         The UI is driven by the API.
 
