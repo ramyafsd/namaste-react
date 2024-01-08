@@ -1,0 +1,10 @@
+What is the difference between Named export, Default export and * as export?
+    Ans: Named export allows us to export multiple values with specific names. while Named exports is used export a single main value from a module.
+        Besides * as export allows us to import all the values in a specific module.
+What is the importance of config.js file?
+    Ans: Config file is used for  configuring the Webpack module bundler and optimizing the build process for your React application.
+What are React Hooks?
+    Ans: React hooks are nothing but javascript functions which provide some logical functionality. Some of the frequentlu used hooks in React are 
+            useState(), useEffect(),... and also allows functional components to have access to state and other React features. 
+Why do we need a useState() hook?
+    Ans: useState hook is used for the maintanance of the state of a variable in React Functional Components.
